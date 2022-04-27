@@ -1,6 +1,6 @@
 # Mapas TopoJSON de Guatemala
 
-Son archivos geo espaciales con topología tipo TopoJSON del mapa de Guatemala, cuenta con 22 departamentos y 334 municipios, entre los graficos de municipios se muestra Belice
+Son archivos geo espaciales con topología tipo TopoJSON del mapa de Guatemala, cuenta con 22 departamentos y 339 municipios, entre los graficos de municipios se muestra Belice
 
 ```mermaid
 graph TB
