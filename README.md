@@ -16,7 +16,7 @@ graph TB
 end
 ```
 
-* [deptos.json](https://raw.githubusercontent.com/minfin-bi/mapas/main/deptos.json): 
+* Departamentos ([deptos.json](https://raw.githubusercontent.com/minfin-bi/mapas/main/deptos.json))
 
 <div align="center">
 
@@ -27,7 +27,7 @@ end
   
 </div>
 
-* [munis.json](https://raw.githubusercontent.com/minfin-bi/mapas/main/munis.json)
+* Municipios ([munis.json](https://raw.githubusercontent.com/minfin-bi/mapas/main/munis.json))
 
 <div align="center">
 
@@ -40,7 +40,7 @@ end
 
 </div>
 
-* [muni.json](https://raw.githubusercontent.com/minfin-bi/mapas/main/munis.json):
+* Municipio ([muni.json](https://raw.githubusercontent.com/minfin-bi/mapas/main/munis.json))
 
 <div align="center">
 
